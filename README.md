@@ -6,4 +6,4 @@ In a programmer’s life, it often comes up in which languages software can deve
 
 You can try the game here:
 
-https://frankofamily.info/portfolio/FruitIshido_PHP/
+https://frankofamily.eu/portfolio/FruitIshido_PHP/
